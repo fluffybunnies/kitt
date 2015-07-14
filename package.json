@@ -1,0 +1,30 @@
+{
+	"name": "kitt",
+	"version": "0.0.0",
+	"description": "Starter kit for node package",
+	"keywords": [
+		"package",
+		"kit"
+	],
+	"homepage": "https://github.com/fluffybunnies/kitt",
+	"author": "fluffybunnies",
+	"license": "MIT",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:fluffybunnies/kitt.git"
+	},
+	"dependencies": {
+		"minimist": "1.1.1",
+		"sext": "0.1.6"
+	},
+	"devDependencies": {
+		"tape": "~4.0.0"
+	},
+	"bugs": {
+		"url": "https://github.com/fluffybunnies/kitt/issues"
+	},
+	"scripts": {
+		"test": "node test/test.js"
+	}
+}
