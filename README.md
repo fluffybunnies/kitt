@@ -25,3 +25,6 @@ Starter kit for node package
 
 ## To Do
 - Cool install script encapsed by package.json
+	- Replace package name refs
+	- Option to merge into existing repo
+
